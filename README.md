@@ -56,7 +56,7 @@ This project demonstrates installing and configuring a DHCP server on Windows Se
 | Scope Configuration Window   | ![Scope Config](images/scope-config.png)     |
 | IP Range                     |                                              | 
 | Default Gateway              |                                              |
-| DNS Server                   |                                              |
+| DNS Server                   |![DNS Server](images/DNS-server.png)                                              |
 | DHCP Reservation Setup       | ![Reservation](images/dhcp-reservation.png)  |
 
 
