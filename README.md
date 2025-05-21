@@ -49,7 +49,7 @@ This project demonstrates installing and configuring a DHCP server on Windows Se
 |------------------------------|----------------------------------|
 | Server Manager Dashboard     | ![Server Manager](Images/Server-manager.png) |
 | Add DHCP Server              | ![DHCP-server](Images/select-dhcp-server.png)|
-| DHCP Role Installation       | ![Role Install](images/install-dhcp.png)     |
+| DHCP Role Installation       | ![Role Install](Images/install-dhcp.png)     |
 | DHCP Console/Add Scope       | ![DHCP Console](Images/create-scope.png)     |
 | Scope Configuration Window   | ![Scope Config](Images/ip-range.png)         |
 | Default Gateway              |![Default Gateway](Images/default-gateway.png)|
