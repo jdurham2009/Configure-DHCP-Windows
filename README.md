@@ -1,4 +1,4 @@
-# 🖧 Install and Configure DHCP in a Windows Server Environment
+# Install and Configure DHCP in a Windows Server Environment
 
 
 ## Overview
@@ -10,12 +10,10 @@ This project demonstrates installing and configuring a DHCP server on Windows Se
 - Setting up the default gateway and DNS options
 - Creating a DHCP reservation for static IP assignment
 
-> While the full DHCP DORA process (Discover, Offer, Request, Acknowledge) could not be observed in this limited lab environment, all the core setup steps were completed successfully.
-
 ---
 
 ## Tools Used
-- Windows Server 2022 (GUI)**
+- Windows Server 2022 (GUI)
 - Server Manager
 - DHCP MMC Snap-In
 - Pluralsight Lab Environment
@@ -49,15 +47,14 @@ This project demonstrates installing and configuring a DHCP server on Windows Se
 
 | Description                  | Image Path                       |
 |------------------------------|----------------------------------|
-| Server Manager Dashboard     | ![Server Manager](images/server-manager.png) |
-| Add DHCP Server              |                                              |
+| Server Manager Dashboard     | ![Server Manager](Images/Server-manager.png) |
+| Add DHCP Server              | ![DHCP-server](Images/select-dhcp-server.png)|
 | DHCP Role Installation       | ![Role Install](images/install-dhcp.png)     |
-| DHCP Console/Add Scope       | ![DHCP Console](images/dhcp-console.png)     |
-| Scope Configuration Window   | ![Scope Config](images/scope-config.png)     |
-| IP Range                     |                                              | 
-| Default Gateway              |                                              |
-| DNS Server                   |![DNS Server](images/DNS-server.png)                                              |
-| DHCP Reservation Setup       | ![Reservation](images/dhcp-reservation.png)  |
+| DHCP Console/Add Scope       | ![DHCP Console](Images/create-scope.png)     |
+| Scope Configuration Window   | ![Scope Config](Images/ip-range.png)         |
+| Default Gateway              |![Default Gateway](Images/default-gateway.png)|
+| DNS Server                   | ![DNS Server](Images/DNS-server.png)         |
+| DHCP Reservation Setup       | ![Reservation](Images/Reservation-Setup.png) |
 
 
 ---
@@ -83,16 +80,15 @@ This project demonstrates installing and configuring a DHCP server on Windows Se
 - How DHCP reservations work and when to use them (e.g. printers, servers)
 - The fundamentals of DHCP leasing and scope exclusions
 
----
 
 ---
 
 ## 📁 Files Included
-- `images/` — Screenshot folder (upload your screenshots here)
-- `README.md` — This documentation file
+- Images — Screenshot folder (upload your screenshots here)
+- README.md — This documentation file
 
 ---
 
-> 📌 **GitHub Tip:** Add this project to your resume GitHub link as part of your networking portfolio. It shows real Windows Server skills in a lab setting!
+
 
 
