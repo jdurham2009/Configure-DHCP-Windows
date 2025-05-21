@@ -80,13 +80,6 @@ This project demonstrates installing and configuring a DHCP server on Windows Se
 - How DHCP reservations work and when to use them (e.g. printers, servers)
 - The fundamentals of DHCP leasing and scope exclusions
 
-
----
-
-## 📁 Files Included
-- Images — Screenshot folder (upload your screenshots here)
-- README.md — This documentation file
-
 ---
 
 
